@@ -10,3 +10,5 @@ def connect_to_db():
         port= "5432"
     )
     
+
+connect_to_db()#fn call to connect db
