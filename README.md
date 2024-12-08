@@ -1,5 +1,5 @@
 ----Doctor Appoitment Booking System---- <br>
-This is simple python project to study the basics of python and to familiarize how can we connect postgreSQL database and use tkinder.<br>
+This is simple python project to learn the basics of python and to familiarize how can we connect postgreSQL database and use tkinder.<br>
 Features are:<br>
     -> Add doctors.<br>
     -> Add patients.<br>
